@@ -1,0 +1,26 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class SoundManager : MonoBehaviour
+{
+    public static SoundManager instance;
+    private void Awake() {
+        if (instance == null)
+        {
+            instance = this;
+            DontDestroyOnLoad(instance);
+        }
+        else {
+            Destroy(gameObject);
+        }
+    }
+    public void AudioPlay(string name, AudioClip clip) {
+        GameObject go = new GameObject(name+"sound");
+        AudioSource audiosource = go.AddComponent<AudioSource>();
+        audiosource.clip = clip;
+        audiosource.Play();
+
+        Destroy(go, clip.length);
+    }
+}

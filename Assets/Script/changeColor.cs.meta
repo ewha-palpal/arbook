@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 37d77dd6366ab2446aab5b045199d541
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myText: {instanceID: 0}
+  - myText2: {instanceID: 0}
+  - answerCorrectAudio: {instanceID: 0}
+  - answerWrongAudio: {fileID: 8300000, guid: 8beafbda3f5244d4c95d2cf399ec1ac1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

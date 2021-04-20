@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/app-start.unity
+    guid: 12678e971cba044c5855a7e09702f505
+  - enabled: 1
+    path: Assets/Scenes/AR-BOOK.unity
+    guid: ef3157feadf1e6f4c8b0522de72deed5
+  - enabled: 1
+    path: Assets/Scenes/soundgame1_O.unity
+    guid: abb02c83955dc454e97fdceb3265abfd
+  - enabled: 1
+    path: Assets/Scenes/1game.unity
+    guid: 2ed54590fd30dea4a98457c244afe269
+  - enabled: 1
+    path: Assets/Scenes/1game_O.unity
+    guid: 9b089f5aa2507b44a979ed92d711d8d9
+  - enabled: 1
+    path: Assets/Scenes/1game_X.unity
+    guid: fb5ab05ea4e86cb4e8e46de221c62df5
+  - enabled: 1
+    path: Assets/Scenes/2game.unity
+    guid: 004548bdc7a563e4c843a11132886815
+  - enabled: 1
+    path: Assets/Scenes/2game_O.unity
+    guid: d90afffef6ace074cb7d25105f97bf22
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/review.unity
+    guid: 03d5579fd94caa04a9e42c1e97a7026d
+  - enabled: 1
+    path: Assets/Scenes/soundgame 1.unity
+    guid: 5ab304dfffc2756448f7ebead6b1a069
+  - enabled: 1
+    path: Assets/Scenes/soundgame 2.unity
+    guid: d884e2acb81124d3b8ba4a82fb185be5
+  - enabled: 1
+    path: Assets/Scenes/soundgame2_O.unity
+    guid: ac556332e53820a4cb9cd577aad302f8
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/DrawLine.unity
+    guid: f787964e9676bc34694bad154ff4ad6d
+  - enabled: 1
+    path: Assets/Scenes/DrawLine2.unity
+    guid: ce8ecb9ea46fe5b4998cdc09ef8e1fea
+  - enabled: 1
+    path: Assets/Scenes/DrawLine3.unity
+    guid: 6e4481bf0a66b6142bc368c2a188b04c
+  - enabled: 1
+    path: Assets/Scenes/DrawLine4.unity
+    guid: 2f4be08066f77b04f8e815e06b0bcb91
+  - enabled: 1
+    path: Assets/Scenes/DrawLine5.unity
+    guid: 265680f6b02453841a530afa98efa9ef
+  - enabled: 1
+    path: Assets/Scenes/DrawLine6.unity
+    guid: 9d224e3655307aa44a1aab5a14acb3a5
+  m_configObjects: {}
